@@ -3,8 +3,8 @@
 
 This is an example usage of the "botsec.php" script. It'll redirect you to https://google.com if the user-agent of the request is in the array to check.
 
-## Source on github
-- [botsec on github](https://opensource.org/license/mit)
+## Source on GitHub
+- [botsec on GitHub](https://github.com/kimhauser/botsec)
 
 ## Testing the script
 You can test the botsec.php script with your own User-Agents like so:
